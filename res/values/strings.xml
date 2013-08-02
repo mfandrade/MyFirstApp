@@ -6,5 +6,7 @@
     <string name="action_settings">Configurações</string>
     <string name="edit_message">Digite uma mensagem</string>
     <string name="button_send">Enviar</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="hello_world">Hello world!</string>
 
 </resources>
