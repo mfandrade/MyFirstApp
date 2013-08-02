@@ -3,6 +3,7 @@ package com.example.myfirstapp;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
+import android.view.View;
 
 public class MainActivity extends Activity {
 
@@ -18,5 +19,9 @@ public class MainActivity extends Activity {
 		getMenuInflater().inflate(R.menu.main, menu);
 		return true;
 	}
+
+    // Called when user clicks the Send button.
+    public void sendMessage(View view) {
+    }
 
 }
